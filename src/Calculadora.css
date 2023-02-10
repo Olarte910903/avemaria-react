@@ -1,0 +1,11 @@
+.main-container{
+    width: 9rem;
+    height: 12rem;
+    background-color: antiquewhite;
+    display:flex;
+    flex-direction:column;
+}
+
+.header input{
+    width :80%;
+}
